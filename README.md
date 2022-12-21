@@ -1,7 +1,7 @@
 <!-- Main header section -->
 <h1 align="center">
 
-  Hi, I'm Brian!
+  Hi, my name is Brian Bronzini
   
   <p align="center" font="SFMono-Regular">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -12,12 +12,14 @@
   
   <!-- Social icons section -->
   <a href="https://www.linkedin.com/in/brianbronzini/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Brian's LinkedIn Profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Brian's LinkedIn Profile" height="100%">
   </a>
   <a href="https://www.youtube.com/channel/UCuQIJG1EbdaE3cv5Z6CxoLg">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Brian's YouTube Channel">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Brian's YouTube Channel" height="100%">
   </a>
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black">
+  <a href="https://www.buymeacoffee.com/brianveebee">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"  height="100%">
+  </a>
 </h1>
 
 
