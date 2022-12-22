@@ -36,8 +36,8 @@ My name is Brian Bronzini
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianveebee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" alt="Brian's GitHub Stats" />
 </a>
 
-<a href="https://github.com/brianveebee/rock-paper-scissors">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" />
+<a href="https://github.com/brianveebee/CS50x-projects-2022">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=CS50x-projects-2022&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" />
 </a>
 
 
