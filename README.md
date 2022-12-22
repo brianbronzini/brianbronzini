@@ -22,18 +22,28 @@
   </a>
 </h1>
 
-</picture>
+
+<!-- About Me Section -->
+<h2 id="about-me">About me</h2> 
+My name is Brian Bronzini
 
 <!-- My Stats Section -->
-<h2 id="my-activity">My Activity</h2> 
-<div>
-  <div>
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=brianveebee&theme=black-ice" alt="mystreak"/>
-  </div>
-  <div>
-    <p>Sample text</p>
-  </div>
-</div>
+<h2 id="github-stats">GitHub Stats</h2> 
+<a href="https://github.com/brianveebee/brianveebee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianveebee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
+<a href="https://github.com/brianveebee/brianveebee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianveebee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" alt="Brian's GitHub Stats" />
+</a>
+
+<a href="https://github.com/brianveebee/rock-paper-scissors">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/brianveebee/rock-paper-scissors">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" />
+</a>
 
 
 
