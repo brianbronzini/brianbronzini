@@ -1,4 +1,4 @@
-<!-- Main header section -->
+<!-- Main Header Section -->
 <h1 align="center">
 
   Hi, my name is Brian Bronzini
@@ -6,7 +6,7 @@
   <p align="center" font="SFMono-Regular">
     <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=22&duration=2300&pause=700&color=6EF7D4&center=true&width=500&height=30&lines=Information+Technology+Specialist;Cybersecurity+Enthusiast;Creative+Hobbyist;Cancer+Survivor" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=22&duration=2300&pause=700&color=7CF8FFFF&center=true&width=500&height=30&lines=Information+Technology+Specialist;Cybersecurity+Enthusiast;Creative+Hobbyist;Cancer+Survivor" alt="Typing SVG" />
     </a>
   </p>
   
@@ -22,18 +22,18 @@
   </a>
 </h1>
 
+</picture>
 
-<!--
-**brianveebee/brianveebee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- My Stats Section -->
+<h2 id="my-activity">My Activity</h2> 
+<div>
+  <div>
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=brianveebee&theme=black-ice" alt="mystreak"/>
+  </div>
+  <div>
+    <p>Sample text</p>
+  </div>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
