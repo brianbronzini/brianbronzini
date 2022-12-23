@@ -1,26 +1,35 @@
 <!-- Main Header Section -->
-<h1 align="center">
-
-  Hi, I'm Brian!<br>
-  <img align="center" width="15%" src="https://media.giphy.com/media/x6Mre19kM4Duf1op5P/giphy.gif">
-  
-  <p align="center" font="SFMono-Regular">
-    <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=&weight=700&size=22&duration=2300&pause=700&color=7CF8FFFF&center=true&width=500&height=30&lines=Information+Technology+Specialist;Security+Developer;Creative+Hobbyist;Cancer+Survivor" alt="Typing SVG" />
-    </a>
-  </p>
-  
-  <!-- Social icons section -->
-  [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-4682b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianbronzini/)
-  [!["YouTube"](https://img.shields.io/badge/YouTube-d95652?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuQIJG1EbdaE3cv5Z6CxoLg)<br>
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brianveebee)
+Hi, my name is
+<h1>
+  Brian Bronzini.
+  <br>
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=2000&pause=700&color=7CF8FFFF&center=false&width=500&height=30&lines=Information+Technology+Specialist;DevOps+Enthusiast;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
 </h1>
 
+<!-- 
+**`Potential status updates???`**
+--!>
 
 <!-- About Me Section -->
-<h2 id="about-me">About me</h2> 
-<p>My name is Brian Bronzini, and I am an IT specialist and self-taught developer with a burning ambition to learn infrastructure automation and cybersecurity. I'm based in California (US), and you can find me cruising the PCH <img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/">LinkedIn</a> if you want to connect or just chat!</p>
+<h2 id="about-me">About me</h2>
+
+<p>
+  My name is Brian Bronzini, and I am an IT specialist and self-taught developer with a burning ambition to learn infrastructure automation and cybersecurity. I'm based in California (US), and you can find me cruising the PCH
+    <img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/">LinkedIn</a> if you want to connect or just chat!
+</p>
+
+<!-- Social icons section -->
+<a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4682b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Brian's LinkedIn Profile">
+</a>
+<a href="https://www.youtube.com/channel/UCuQIJG1EbdaE3cv5Z6CxoLg" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-d95652?style=for-the-badge&logo=youtube&logoColor=white" alt="Brian's Youtube Channel">
+</a>
+<a href="https://www.buymeacoffee.com/brianveebee" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="122">
+</a>
 
 <hr>
 
