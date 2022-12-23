@@ -14,7 +14,7 @@
   <!-- Social icons section -->
   [!["LinkedIn"](https://img.shields.io/badge/LinkedIn-4682b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianbronzini/)
   [!["YouTube"](https://img.shields.io/badge/YouTube-d95652?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCuQIJG1EbdaE3cv5Z6CxoLg)<br>
-  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/brianveebee)
 </h1>
 
 
