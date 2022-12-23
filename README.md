@@ -20,25 +20,37 @@
 
 <!-- About Me Section -->
 <h2 id="about-me">About me</h2> 
-My name is Brian Bronzini
+<p>My name is Brian Bronzini, and I am an IT specialist and self-taught developer with a burning ambition to learn infrastructure automation and cybersecurity. I'm based in California (US), and you can find me cruising the PCH <img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/">LinkedIn</a> if you want to connect or just chat!</p>
+
+<hr>
+
+<h2>Sample</h2>
+<!-- My Coding Journey Section -->
+<details id="github-stats">
+  <summary><img width="20" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">  My Coding Journey</summary><br>
+  
+</details>
 
 <!-- My Stats Section -->
-<h2 id="github-stats">&#x1f4c8; GitHub Stats</h2>
-
+<details id="github-stats">
+  <summary>&#x1f4c8; GitHub Stats</summary><br>
 <div align="center">
   <a href="https://github.com/brianveebee/brianveebee">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianveebee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>
-
   <a href="https://github.com/brianveebee/brianveebee">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianveebee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" alt="Brian's GitHub Stats" />
   </a>
-
   <a href="https://github.com/brianveebee/CS50x-projects-2022">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=CS50x-projects-2022&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" />
   </a>
-
   <a href="https://github.com/brianveebee/rock-paper-scissors">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=00e7ff&bg_color=1d1f21" />
   </a>
 </div>
+</details>
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
