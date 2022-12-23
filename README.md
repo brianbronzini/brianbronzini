@@ -5,12 +5,13 @@ Hi, my name is
   <br>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&background=A1A1A11A&vCenter=true&size=22&duration=2000&pause=700&color=7CF8FFFF&center=false&width=400&height=30&lines=Information+Technology+Specialist;DevOps+Enthusiast;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=2000&pause=700&color=7CF8FFFF&center=false&width=400&height=30&lines=Information+Technology+Specialist;DevOps+Enthusiast;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
+  
 </h1>
 
-<!-- 
-**`Potential status updates???`**
---!>
+
+<i>Do yourself a favor and use a [Dark Mode](https://github.com/settings/appearance) flavor</i>
+
 
 <!-- About Me Section -->
 <h2 id="about-me">About me</h2>
