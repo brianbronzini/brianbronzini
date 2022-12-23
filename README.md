@@ -26,14 +26,14 @@
 
 <h2>Sample</h2>
 <!-- My Coding Journey Section -->
-<details id="github-stats">
+<details id="my-coding-journey">
   <summary><img width="20" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">  My Coding Journey</summary><br>
   
 </details>
 
 <!-- My Stats Section -->
-<details id="github-stats">
-  <summary>&#x1f4c8; GitHub Stats</summary><br>
+<details id="github-statistics">
+  <summary><img width="20" src="https://media.giphy.com/media/n27ttWWVusVYOhb6hP/giphy.gif"> GitHub Statistics</summary><br>
 <div align="center">
   <a href="https://github.com/brianveebee/brianveebee">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianveebee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
