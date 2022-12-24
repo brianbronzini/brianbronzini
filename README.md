@@ -45,6 +45,13 @@
       <h3>How I Started</h3>
         <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a> track and never looked back.</p>
       <h3>What I Learned</h3>
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png">
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
+      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
     </div>
   </div>
 </details>
