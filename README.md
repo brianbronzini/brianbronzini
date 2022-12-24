@@ -8,7 +8,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=2000&pause=700&color=7CF8FFFF&center=false&width=440&height=30&lines=Information+Technology+Specialist;DevOps+Enthusiast;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
 </h1>
 
-<p><i>Do yourself a favor and use a <a href="https://github.com/settings/appearance">Dark Mode</a> flavor</i></p>
+<p><i>Do yourself a favor, use a <a href="https://github.com/settings/appearance">Dark Mode</a> flavor</i></p>
 
 <!-- About Me Section -->
 <h2 id="about-me">About me</h2>
