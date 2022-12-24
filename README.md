@@ -1,4 +1,4 @@
-<!-- Main Header Section -->
+<!-- SECTION: MAIN HEADER -->
 <p><i>Hi, my name is</i></p>
 <h1>
   Brian Bronzini.
@@ -10,7 +10,7 @@
 
 <p><i>Do yourself a favor, use a <a href="https://github.com/settings/appearance">Dark Mode</a> flavor</i></p>
 
-<!-- About Me Section -->
+<!-- SECTION: ABOUT ME -->
 <h2 id="about-me">About me</h2>
 
 <p>
@@ -18,7 +18,7 @@
     <img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!
 </p>
 
-<!-- Social icons section -->
+<!-- SECTION: SOCIAL ICONS -->
 <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-4682b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Brian's LinkedIn Profile">
 </a>
@@ -31,7 +31,8 @@
 
 <hr>
 
-<!-- My Coding Journey Section -->
+<!-- SECTION: MY CODING JOURNEY -->
+<!-- The Odin Project -->
 <details id="my-coding-journey">
   <summary><img width="20" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif">  My Coding Journey</summary>
   <div align="center">
@@ -51,10 +52,27 @@
       <br>
       <p>The Odin Project provided me with a carefully curated guide to my learning and exposed me to a wide array of technologies (<i>listed in the Course Tech Stack</i>) that I have found to be invaluable for anybody wanting to start their journey as a Full-Stack Web Developer. Beyond learning the tech, TOP helped me develop my critical thinking skills by not hand-holding me as I approached each new project. TOP forced me to deepen my understanding of complex concepts and analyze the documentation of the various technologies to fill in any knowledge gaps necessary to complete the projects. TOP has given me the knowledge and confidence to build my own Full-Stack web projects from the ground up, and an incredibly passionate <a href="https://discord.com/invite/fbFCkYabZB">discord community</a> with which to collaborate.</p>
     </div>
+    <div>
+      <br>
+      <hr>
+      <!-- freeCodeCamp -->
+      <p><i>(November 2022 - Ongoing Learning)</i></p>
+      <h2>freeCodeCamp</h2>
+      <p><b><a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a> is a community of millions of people around the world who are learning to code together. You can learn to code with free online courses, programming projects, and interview preparation for developer jobs.</b></p>
+      <a href="https://www.freecodecamp.org/">
+        <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" alt="freeCodeCamp logo">
+      </a>
+    </div>
+    <div align="left">
+      <h3>Why I love freeCodeCamp</h3>
+      <p>[Placeholder]</p>
+    </div>
   </div>
-</details></ br>
+</details>
 
-<!-- My Stats Section -->
+<hr>
+
+<!-- SECTION: GITHUB STATISTICS -->
 <details id="github-statistics">
   <summary><img width="20" src="https://media.giphy.com/media/n27ttWWVusVYOhb6hP/giphy.gif"> GitHub Statistics</summary><br>
 <div align="center">
