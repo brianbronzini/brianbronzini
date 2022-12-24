@@ -14,7 +14,7 @@
 <h2 id="about-me">About me</h2>
 
 <p>
-  I am an IT specialist and self-taught developer with a burning ambition to learn infrastructure automation and cybersecurity. I'm based in California (US), and you can find me cruising the PCH
+  I am an IT specialist and self-taught developer passionately learning automation and cybersecurity. I'm based in California (US), and you can find me cruising the PCH
     <img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!
 </p>
 
