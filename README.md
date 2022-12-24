@@ -14,7 +14,7 @@
 <h2 id="about-me">About me</h2>
 
 <p>
-  I am an IT specialist and self-taught developer passionately learning automation and cybersecurity. I'm based in California (US), and you can find me cruising the PCH
+  I am an IT specialist and self-taught developer passionately learning automation and cybersecurity. I'm based in California (<i>US</i>), and you can find me cruising the PCH
     <img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!
 </p>
 
@@ -44,10 +44,12 @@
     <div align="left">
       <h3>How I Started</h3>
         <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a> track and never looked back.</p>
-      <h3>What I Learned</h3>
+      <h3>Learning Outcomes</h3>
       <div align="center">
         <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Course%20Tech%20Stack&lineCount=2&theme=android&align=center&showBorder=true&borderRadius=4.5&fontSize=18&fontWeight=semibold&line1=HTML5,HMTL,E34F26;CSS3,CSS,1572B6;JavaScript,JavaScript,F7DF1E;react,react,3498db;&line2=Node.js,Node.js,339933;Ruby,Ruby,CC342D;MySQL,MySQL,4479A1;" alt="My Tech Stack" />
       </div>
+      <br>
+      <p>The Odin Project provided me with a carefully curated guide to my learning and exposed me to a wide array of technologies (<i>listed in the Course Tech Stack</i>) that I have found to be invaluable for anybody wanting to start their journey as a Full-Stack Web Developer. Beyond learning the tech, TOP helped me develop my critical thinking skills by not hand-holding me as I approached each new project. TOP forced me to deepen my understanding of complex concepts and analyze the documentation of the various technologies to fill in any knowledge gaps necessary to complete the projects. TOP has given me the knowledge and confidence to build my own Full-Stack web projects from the ground up, and an incredibly passionate <a href="https://discord.com/invite/fbFCkYabZB">discord community</a> to collaborate with.</p>
     </div>
   </div>
 </details></ br>
