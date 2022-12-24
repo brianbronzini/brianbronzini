@@ -5,7 +5,7 @@
   <br>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=2000&pause=700&color=7CF8FFFF&center=false&width=440&height=30&lines=Information+Technology+Specialist;DevOps+Enthusiast;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=2000&pause=700&color=3add85&center=false&width=440&height=30&lines=Information+Technology+Specialist;DevOps+Enthusiast;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
 </h1>
 
 <p><i>Do yourself a favor, use a <a href="https://github.com/settings/appearance">Dark Mode</a> flavor</i></p>
@@ -45,16 +45,12 @@
       <h3>How I Started</h3>
         <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a> track and never looked back.</p>
       <h3>What I Learned</h3>
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png">
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
-      <img width="30" src="https://user-images.githubusercontent.com/25181517/192603748-3ac17112-3653-4257-80da-a57334b11411.png">
+      <div align="center">
+        <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Course%20Tech%20Stack&lineCount=2&theme=android&align=center&showBorder=true&borderRadius=4.5&fontSize=18&fontWeight=semibold&line1=HTML5,HMTL,E34F26;CSS3,CSS,1572B6;JavaScript,JavaScript,F7DF1E;react,react,3498db;&line2=Node.js,Node.js,339933;Ruby,Ruby,CC342D;MySQL,MySQL,4479A1;" alt="My Tech Stack" />
+      </div>
     </div>
   </div>
-</details>
+</details></ br>
 
 <!-- My Stats Section -->
 <details id="github-statistics">
