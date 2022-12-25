@@ -44,7 +44,7 @@
     </div>
     <div align="left">
       <h3>How I Started</h3>
-        <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a> track and never looked back.</p>
+        <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <i><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a></i>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <i><a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a></i> track and never looked back.</p>
       <h3>Learning Outcomes</h3>
       <div align="center">
         <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Course%20Tech%20Stack&lineCount=2&theme=android&align=center&showBorder=true&borderRadius=4.5&fontSize=18&fontWeight=semibold&line1=HTML5,HMTL,E34F26;CSS3,CSS,1572B6;JavaScript,JavaScript,F7DF1E;react,react,3498db;&line2=Node.js,Node.js,339933;Ruby,Ruby,CC342D;MySQL,MySQL,4479A1;" alt="The Odin Project Course Tech Stack" />
@@ -65,13 +65,15 @@
     </div>
     <div align="left">
       <h3>Why I love freeCodeCamp</h3>
-      <p>First, I have to admit that I have become a strong advocate for free educational resources over the past year, and freeCodeCamp is simply that. I discovered freeCodeCamp through my initial research for high-quality resources. Many learners have </p>
+      <p>First, I have to admit that I have become a strong advocate for free educational resources over the past year, and freeCodeCamp is simply that. I discovered freeCodeCamp through my initial research for high-quality resources and prior to my involvement with The Odin Project. The way in which the curriculum is presented allows for very thorough hands-on practice in specific development areas. Following my journey with The Odin Project, I decided to use freeCodeCamp's <i><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a></i> and <i><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></i> certification courses to reinforce my knowlege of important concepts to remember as a Full-Stack Web Developer.</p>
+    </div>
+    <div align="left">
+      <h3>Next Steps</h3>
+      <p>As I continue my learning, I intend to better familiarize myself with python by building projects with a greater focus in security development. I am eager to dive into freeCodeCamp's <i><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific Computing with Python</a></i> and <i><a href="https://www.freecodecamp.org/learn/information-security/">Information Security</a></i> courses to learn the basics of building a TCP client and penetration testing.</p>
     </div>
   </div>
 </details>
-
 <hr>
-
 <!-- SECTION: GITHUB STATISTICS -->
 <details id="github-statistics">
   <summary><img width="20" src="https://media.giphy.com/media/n27ttWWVusVYOhb6hP/giphy.gif"> GitHub Statistics</summary><br>
