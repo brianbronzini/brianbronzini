@@ -56,7 +56,7 @@
       <br>
       <hr>
       <!-- freeCodeCamp -->
-      <p><i>(November 2022 - Ongoing Learning)</i></p>
+      <p><i>(February 2022 - Ongoing Learning)</i></p>
       <h2>freeCodeCamp</h2>
       <p><b><a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a> is a community of millions of people around the world who are learning to code together. You can learn to code with free online courses, programming projects, and interview preparation for developer jobs.</b></p>
       <a href="https://www.freecodecamp.org/">
