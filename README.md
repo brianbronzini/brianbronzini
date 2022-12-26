@@ -12,7 +12,6 @@
 
 <!-- SECTION: ABOUT ME -->
 <h2 id="about-me">About me</h2>
-
 <p>
   I am an IT specialist and self-taught developer passionately learning automation and cybersecurity. I'm based in California (<i>US</i>), and you can find me cruising the PCH
     <img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!
@@ -40,7 +39,7 @@
       <p><i>(February 2022 - September 2022)</i></p>
       <h2>The Odin Project</h2>
       <p><b><a href="https://www.theodinproject.com/" target="_blank">The Odin Project (TOP)</a> is an open-source curriculum for learning full-stack web development</b></p>
-      <img width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2FAsY9MiBRJKn-Baim1m9UQsgSuuitk1U5dp66UOX6R9g.jpg%3Fauto%3Dwebp%26s%3D05f168256897c7d4dec5f72fa353b744a27cb6da&f=1&nofb=1&ipt=4a393f8ade1ccf7d810a35684ebed0bef9a8c0a396e6418e2a0ef397fcee6ef5&ipo=images" alt="The Odin Project logo">
+      <img width="400" src="https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png" alt="The Odin Project logo">
     </div>
     <div align="left">
       <h3>How I Started</h3>
@@ -70,7 +69,7 @@
     <p><i>(February 2022 - December 2022)</i></p>
     <h2>HarvardX: CS50x Introduction to Computer Science</h2>
       <p><b><a href="https://www.edx.org/school/harvardx" target="_blank">CS50x</a> teaches students how to think algorithmically and solve problems efficiently</b></p>
-    <img width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Ffreebiesupply%2Flarge%2F2x%2Fharvard-logo-transparent.png&f=1&nofb=1&ipt=a8a1ed9bd865504e5e48cf645196cd6152ef1e085373faabe7bd4bf5eb549cdf&ipo=images" alt="Harvard University logo">
+    <img width="400" src="https://13b43dff-b87d-4489-8a6b-fb35e4b2b8c2.id.repl.co/images/banner-harvardx.png" alt="Harvard University logo">
   </div>
   <div align="left">
     <h3>How I Started</h3>
