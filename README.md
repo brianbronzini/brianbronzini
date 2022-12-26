@@ -39,7 +39,7 @@
     <div>
       <p><i>(February 2022 - September 2022)</i></p>
       <h2>The Odin Project</h2>
-      <p><b><a href="https://www.theodinproject.com/" target="_blank">The Odin Project (TOP)</a> is an open-source curriculum for learning full-stack web development.</b></p>
+      <p><b><a href="https://www.theodinproject.com/" target="_blank">The Odin Project (TOP)</a> is an open-source curriculum for learning full-stack web development</b></p>
       <img width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fexternal-preview.redd.it%2FAsY9MiBRJKn-Baim1m9UQsgSuuitk1U5dp66UOX6R9g.jpg%3Fauto%3Dwebp%26s%3D05f168256897c7d4dec5f72fa353b744a27cb6da&f=1&nofb=1&ipt=4a393f8ade1ccf7d810a35684ebed0bef9a8c0a396e6418e2a0ef397fcee6ef5&ipo=images" alt="The Odin Project logo">
     </div>
     <div align="left">
@@ -55,6 +55,27 @@
     <div>
       <br>
       <hr>
+      <div align="center">
+    <div>
+    <!-- CS50 EdX -->
+    <p><i>(February 2022 - December 2022)</i></p>
+    <h2>HarvardX: CS50x Introduction to Computer Science</h2>
+      <p><b><a href="https://www.edx.org/school/harvardx" target="_blank">CS50x</a> teaches students how to think algorithmically and solve problems efficiently</b></p>
+    <img width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs3.amazonaws.com%2Ffreebiesupply%2Flarge%2F2x%2Fharvard-logo-transparent.png&f=1&nofb=1&ipt=a8a1ed9bd865504e5e48cf645196cd6152ef1e085373faabe7bd4bf5eb549cdf&ipo=images" alt="Harvard University logo">
+  </div>
+  <div align="left">
+    <h3>How I Started</h3>
+      <p>[Placeholder]</p>
+    <h3>Learning Outcomes</h3>
+    <div align="center">
+      <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Course%20Tech%20Stack&lineCount=2&theme=android&align=center&showBorder=true&borderRadius=4.5&fontSize=18&fontWeight=semibold&line1=HTML5,HMTL,E34F26;CSS3,CSS,1572B6;JavaScript,JavaScript,F7DF1E;react,react,3498db;&line2=Node.js,Node.js,339933;Ruby,Ruby,CC342D;MySQL,MySQL,4479A1;" alt="The Odin Project Course Tech Stack" />
+    </div>
+    <br>
+    <p>[Placeholder]</p>
+  </div>
+  <div>
+    <br>
+    <hr>
       <!-- freeCodeCamp -->
       <p><i>(February 2022 - Ongoing Learning)</i></p>
       <h2>freeCodeCamp</h2>
