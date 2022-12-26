@@ -79,9 +79,9 @@
     <div align="center">
       <h4>Course Tech Stack</h4>
       <img src="https://img.shields.io/badge/c-323330?style=for-the-badge&logo=c&logoColor=#A8B9CC">
-      <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=#3776AB">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
       <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white">
-      <img src="https://img.shields.io/badge/SQLite-323330?style=for-the-badge&logo=sqlite&logoColor=003B57">
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
       <br>
       <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26">
       <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6">
