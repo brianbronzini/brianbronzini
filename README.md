@@ -47,7 +47,16 @@
         <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <i><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a></i>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <i><a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a></i> track and never looked back.</p>
       <h3>Learning Outcomes</h3>
       <div align="center">
-        <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Course%20Tech%20Stack&lineCount=2&theme=android&align=center&showBorder=true&borderRadius=4.5&fontSize=18&fontWeight=semibold&line1=HTML5,HMTL,E34F26;CSS3,CSS,1572B6;JavaScript,JavaScript,F7DF1E;react,react,3498db;&line2=Node.js,Node.js,339933;Ruby,Ruby,CC342D;MySQL,MySQL,4479A1;" alt="The Odin Project Course Tech Stack" />
+        <h4>Course Tech Stack</h4>
+        <img src="https://img.shields.io/badge/html5-323330?style=for-the-badge&logo=html5&logoColor=E34F26">
+        <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6">
+        <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+        <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB">
+        <br>
+        <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=nodedotjs&logoColor=339933">
+        <img src="https://img.shields.io/badge/Ruby-323330?style=for-the-badge&logo=ruby&logoColor=CC342D">
+        <img src="https://img.shields.io/badge/Ruby_on_Rails-323330?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000">
+        <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=4169E1">
       </div>
       <br>
       <p>The Odin Project provided me with a carefully curated guide to my learning and exposed me to a wide array of technologies (<i>listed in the Course Tech Stack</i>) that I have found to be invaluable for anybody wanting to start their journey as a Full-Stack Web Developer. Beyond learning the tech, TOP helped me develop my critical thinking skills by not hand-holding me as I approached each new project. TOP forced me to deepen my understanding of complex concepts and analyze the documentation of the various technologies to fill in any knowledge gaps necessary to complete the projects. TOP has given me the knowledge and confidence to build my own Full-Stack web projects from the ground up, and access to an incredibly passionate <a href="https://discord.com/invite/fbFCkYabZB">discord community</a> with which to collaborate.</p>
@@ -68,7 +77,15 @@
       <p>[Placeholder]</p>
     <h3>Learning Outcomes</h3>
     <div align="center">
-      <img align="center" src="https://github-readme-tech-stack.vercel.app/api/cards?title=Course%20Tech%20Stack&lineCount=2&theme=android&align=center&showBorder=true&borderRadius=4.5&fontSize=18&fontWeight=semibold&line1=HTML5,HMTL,E34F26;CSS3,CSS,1572B6;JavaScript,JavaScript,F7DF1E;react,react,3498db;&line2=Node.js,Node.js,339933;Ruby,Ruby,CC342D;MySQL,MySQL,4479A1;" alt="The Odin Project Course Tech Stack" />
+      <h4>Course Tech Stack</h4>
+      <img src="https://img.shields.io/badge/c-323330?style=for-the-badge&logo=c&logoColor=#A8B9CC">
+      <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=#3776AB">
+      <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-323330?style=for-the-badge&logo=sqlite&logoColor=003B57">
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26">
+      <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     </div>
     <br>
     <p>[Placeholder]</p>
