@@ -73,7 +73,7 @@
   </div>
   <div align="left">
     <h3>What is CS50?</h3>
-    <p>Partnered with <a href="https://www.edx.org/">edX</a>, Harvardx's CS50x course provides a comprehensive introduction to vital topics to understand for anyone pursuing a career in Software Engineering.</p>
+    <p>Partnered with <a href="https://www.edx.org/">edX</a>, Harvardx's CS50x course provides a comprehensive introduction of vital topics to understand for anyone pursuing a career in Software Engineering.</p>
       </ br>
       <table>
         <tr>
