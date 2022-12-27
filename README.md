@@ -12,10 +12,7 @@
 
 <!-- SECTION: ABOUT ME -->
 <h2 id="about-me">About me</h2>
-<p>
-  I am an IT specialist and self-taught developer passionately learning automation and cybersecurity. I'm based in California (<i>US</i>), and you can find me cruising the PCH
-    <img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!
-</p>
+<p>I am an IT specialist and self-taught developer passionately learning automation and cybersecurity. I'm based in California (<i>US</i>), and you can find me cruising the PCH<img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!</p>
 
 <!-- SECTION: SOCIAL ICONS -->
 <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">
@@ -60,11 +57,9 @@
       <br>
       <p>The Odin Project provided me with a carefully curated guide to my learning and exposed me to a wide array of technologies (<i>listed in the Course Tech Stack</i>) that I have found to be invaluable for anybody wanting to start their journey as a Full-Stack Web Developer. Beyond learning the tech, TOP helped me develop my critical thinking skills by not hand-holding me as I approached each new project. TOP forced me to deepen my understanding of complex concepts and analyze the documentation of the various technologies to fill in any knowledge gaps necessary to complete the projects. TOP has given me the knowledge and confidence to build my own Full-Stack web projects from the ground up, and access to an incredibly passionate <a href="https://discord.com/invite/fbFCkYabZB">discord community</a> with which to collaborate.</p>
     </div>
-    <div>
-      <br>
-      <hr>
-      <div align="center">
-    <div>
+    <br>
+    <hr>
+    <div align="center">
     <!-- CS50 EdX -->
     <p><i>(February 2022 - December 2022)</i></p>
     <h2>HarvardX: CS50x Introduction to Computer Science</h2>
@@ -126,7 +121,7 @@
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
     </div>
     <br>
-    <p>[Placeholder]</p>
+    <p>After completing the course, I was overwhelmed with a surreal feeling of achievement and joyfully relieved.</p>
   </div>
   <div>
     <br>
