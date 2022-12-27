@@ -72,8 +72,47 @@
     <img width="400" src="https://13b43dff-b87d-4489-8a6b-fb35e4b2b8c2.id.repl.co/images/banner-harvardx.png" alt="Harvard University logo">
   </div>
   <div align="left">
-    <h3>How I Started</h3>
-      <p>[Placeholder]</p>
+    <h3>What is CS50?</h3>
+    <p>Partnered with <a href="https://www.edx.org/">edX</a>, Harvardx's CS50x course provides a comprehensive introduction to vital topics to understand for anyone pursuing a career in Software Engineering.</p>
+      </ br>
+      <table>
+        <tr>
+          <th>Included Topics:</th>
+          <th>Description:</th>
+          <th>Resource Links:</th>
+        </tr>
+        <tr>
+          <td>Abstraction</td>
+          <td>Abstraction in computer programming is a way to reduce complexity and allow efficient design and implementation in complex software systems. It hides the technical complexity of systems behind simpler APIs.</td>
+          <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Abstraction">MDN Article</a></td>
+        </tr>
+        <tr>
+          <td>Data structures</td>
+          <td>Data structure is a particular way of organizing data so that it can be used efficiently.</td>
+          <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Data_structure">MDN Article</a></td>
+        </tr>
+        <tr>
+          <td>Encapsulation</td>
+          <td>Encapsulation is the packing of data and functions into one component (for example, a class) and then controlling access to that component to make a "blackbox" out of the object. Because of this, a user of that class only needs to know its interface (that is, the data and functions exposed outside the class), not the hidden implementation.</td>
+          <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation">MDN Article</a></td>
+        </tr>
+        <tr>
+          <td>Memory Management</td>
+          <td>Low-level languages like C, have manual memory management primitives such as malloc() and free(). In contrast, JavaScript automatically allocates memory when objects are created and frees it when they are not used anymore (garbage collection). This automaticity is a potential source of confusion: it can give developers the false impression that they don't need to worry about memory management.</td>
+          <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management">MDN Article</a></td>
+        </tr>
+        <tr>
+          <td>Security</td>
+          <td>The purpose of website security is to prevent the possibility of vulnerabilities from occuring in your code that can potentially be exploited by threat actors to access sensitive information. The more formal definition of website security is the act/practice of protecting websites from unauthorized access, use, modification, destruction, or disruption.</td>
+          <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security">MDN Article</a></td>
+        </tr>
+        <tr>
+          <td>Web Development</td>
+          <td>Web development often involves work for clients who are trying to get their product or service onto the web. The work is typically very project focused and involves collaborating with a team that helps to coordinate the client’s needs into the end product. The client could be a tech company, an organization, or a government. The work could involve front-end, back-end, or full-stack web development.</td>
+          <td><a href="https://www.theodinproject.com/lessons/foundations-introduction-to-web-development">The Odin Project: Introduction to Web Development</a></td>
+        </tr>
+      </table>
+    <p>Following my initial audit of the course, I was inspired from the very first lecture presented by <a href="https://www.linkedin.com/in/malan/">David J. Malan</a>, and did not hesitate to enroll in the course.</p>
     <h3>Learning Outcomes</h3>
     <div align="center">
       <h4>Course Tech Stack</h4>
