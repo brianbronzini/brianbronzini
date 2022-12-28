@@ -34,14 +34,9 @@
   <div align="center">
     <div>
       <p><i>(February 2022 - September 2022)</i></p>
-      <h2>The Odin Project</h2>
+      <h2 id="the-odin-project">The Odin Project</h2>
       <p><b><a href="https://www.theodinproject.com/" target="_blank">The Odin Project (TOP)</a> is an open-source curriculum for learning full-stack web development</b></p>
       <img width="400" src="https://www.skillfinder.com.au/media/wysiwyg/the-odin-project-logo-skill-finder-partners-page.png" alt="The Odin Project logo">
-    </div>
-    <div align="left">
-      <h3>How I Started</h3>
-        <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <i><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a></i>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <i><a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a></i> track and never looked back.</p>
-      <h3>Learning Outcomes</h3>
       <div align="center">
         <h4>Course Tech Stack</h4>
         <img src="https://img.shields.io/badge/html5-323330?style=for-the-badge&logo=html5&logoColor=E34F26">
@@ -54,7 +49,11 @@
         <img src="https://img.shields.io/badge/Ruby_on_Rails-323330?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000">
         <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=4169E1">
       </div>
-      <br>
+    </div>
+    <div align="left">
+      <h3>How I Started</h3>
+        <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <i><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a></i>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <i><a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a></i> track and never looked back.</p>
+      <h3>Learning Outcomes</h3>
       <p>The Odin Project provided me with a carefully curated guide to my learning and exposed me to a wide array of technologies (<i>listed in the Course Tech Stack</i>) that I have found to be invaluable for anybody wanting to start their journey as a Full-Stack Web Developer. Beyond learning the tech, TOP helped me develop my critical thinking skills by not hand-holding me as I approached each new project. TOP forced me to deepen my understanding of complex concepts and analyze the documentation of the various technologies to fill in any knowledge gaps necessary to complete the projects. TOP has given me the knowledge and confidence to build my own Full-Stack web projects from the ground up, and access to an incredibly passionate <a href="https://discord.com/invite/fbFCkYabZB">discord community</a> with which to collaborate.</p>
     </div>
     <br>
@@ -65,10 +64,21 @@
     <h2>HarvardX: CS50x Introduction to Computer Science</h2>
       <p><b><a href="https://www.edx.org/school/harvardx" target="_blank">CS50x</a> teaches students how to think algorithmically and solve problems efficiently</b></p>
     <img width="400" src="https://13b43dff-b87d-4489-8a6b-fb35e4b2b8c2.id.repl.co/images/banner-harvardx.png" alt="Harvard University logo">
+    <div align="center">
+      <h4>Course Tech Stack</h4>
+      <img src="https://img.shields.io/badge/c-323330?style=for-the-badge&logo=c&logoColor=#A8B9CC">
+      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+      <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+      <br>
+      <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26">
+      <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6">
+      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+    </div>
   </div>
   <div align="left">
     <h3>What is CS50?</h3>
-    <p>Partnered with <a href="https://www.edx.org/">edX</a>, Harvardx's CS50x course provides a comprehensive introduction of vital topics to understand for anyone pursuing a career in Software Engineering.</p>
+    <p>Partnered with <a href="https://www.edx.org/">edX</a>, Harvardx's CS50x course provides a free, self-paced, and comprehensive introduction of vital topics to understand for anyone pursuing a career in Software Engineering. Following my initial audit of the course, I was inspired from the very first lecture presented by <a href="https://www.linkedin.com/in/malan/">David J. Malan</a>, and did not hesitate with my enrollment.</p>
       </ br>
       <table>
         <tr>
@@ -107,22 +117,19 @@
           <td><a href="https://www.theodinproject.com/lessons/foundations-introduction-to-web-development">The Odin Project: Introduction to Web Development</a></td>
         </tr>
       </table>
-    <p>Following my initial audit of the course, I was inspired from the very first lecture presented by <a href="https://www.linkedin.com/in/malan/">David J. Malan</a>, and did not hesitate to enroll in the course.</p>
     <h3>Learning Outcomes</h3>
-    <div align="center">
-      <h4>Course Tech Stack</h4>
-      <img src="https://img.shields.io/badge/c-323330?style=for-the-badge&logo=c&logoColor=#A8B9CC">
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-      <img src="https://img.shields.io/badge/Flask-323330?style=for-the-badge&logo=flask&logoColor=white">
-      <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-      <br>
-      <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26">
-      <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6">
-      <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    </div>
-    <br>
-    <p>After completing the course, I was overwhelmed with a surreal feeling of achievement and joyfully relieved.</p>
-  </div>
+    <p>After receiving my certificate, I was overwhelmed with a surreal feeling of achievement and was joyfully relieved. More importantly, I finally took the time to reflect on my programming journey over the greater part of 11 months ever since starting with <a href="#the-odin-project">The Odin Project</a>. Going from having just one programming class in high school to now being able to develop my own projects from scratch is something I never dreamed that I would be able to accomplish. CS50x has changed my perspective when it comes to solving complex problems, and has helped me push beyond the limitations of my own previously realized abilities. I'm thrilled to have been a part of yet another outstanding program dedicated to empowering learners around the globe through affordable education.</p>
+    <p><img src="https://13b43dff-b87d-4489-8a6b-fb35e4b2b8c2.id.repl.co/images/CS50x-unverified.png"></p>
+  <h4>Skills Earned</h4>
+  <ul>
+    <li>A broad and robust understanding of computer science and programming</li>
+    <li>How to think algorithmically and solve programming problems efficiently</li>
+    <li>Understanding of concepts like abstraction, algorithms, data structures, encapsulation, memory management, security, software engineering, and web development</li>
+    <li>Familiarity in a number of languages, including C, Python, SQL, and JavaScript plus CSS and HTML</li>
+    <li>Practice in engaging and ideating with a vibrant community of like-minded learners from all levels of experience</li>
+    <li>How to develop and present a <a href="https://github.com/brianveebee/rock-paper-scissors">final programming project</a> to your peers</li>
+  </ul>
+  </div>  
   <div>
     <br>
     <hr>
@@ -136,7 +143,7 @@
     </div>
     <div align="left">
       <h3>Why I love freeCodeCamp</h3>
-      <p>First, I have to admit that I have become a strong advocate for free educational resources over the past year, and freeCodeCamp is simply that. I discovered freeCodeCamp through my initial research for high-quality resources and prior to my involvement with The Odin Project. The way in which the curriculum is presented allows for very thorough hands-on practice in specific development areas. Following my journey with The Odin Project, I decided to use freeCodeCamp's <i><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a></i> and <i><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></i> certification courses to reinforce my knowlege of important concepts to remember as a Full-Stack Web Developer.</p>
+      <p>By now, I have to admit that I have become a strong advocate for free educational resources over the past year, and freeCodeCamp is simply that. I discovered freeCodeCamp through my initial research for high-quality resources and prior to my involvement with The Odin Project. The way in which the curriculum is presented allows for very thorough hands-on practice in specific development areas. Following my journey with The Odin Project, I decided to use freeCodeCamp's <i><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a></i> and <i><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></i> certification courses to reinforce my knowlege of important concepts to remember as a Full-Stack Web Developer.</p>
     </div>
     <div align="left">
       <h3>Next Steps</h3>
