@@ -177,7 +177,6 @@
     <a href="https://github.com/brianveebee/rock-paper-scissors">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
     </a>
-    <img src="https://github.com/brianveebee/brianveebee/blob/output/github-contribution-grid-snake.svg">
   </div>
   <!--START_SECTION:waka-->
 
