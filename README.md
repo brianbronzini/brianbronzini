@@ -26,6 +26,26 @@
 </a>
 
 <hr>
+<!-- SECTION: MORE ABOUT BRIAN -->
+<details id="more-about-brian">
+  <summary><img width="20" src="https://media.giphy.com/media/FK8sDft1KN3UOLsDFC/giphy.gif"> More About Brian</summary><br>
+  <div align="center">
+    <a href="https://github.com/brianveebee/brianveebee">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianveebee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21&langs_count=3" />
+    </a>
+    <a href="https://github.com/brianveebee/brianveebee">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianveebee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" alt="Brian's GitHub Stats" />
+    </a>
+    <a href="https://github.com/brianveebee/CS50x-projects-2022">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=CS50x-projects-2022&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
+    </a>
+    <a href="https://github.com/brianveebee/rock-paper-scissors">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
+    </a>
+  </div>
+</details>
+
+<hr>
 
 <!-- SECTION: MY CODING JOURNEY -->
 <!-- The Odin Project -->
@@ -52,7 +72,7 @@
     </div>
     <div align="left">
       <h3>How I Started</h3>
-        <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank">Programming with Mosh</a>'s channel on YouTube and watched his entire 1-hour <i><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a></i>. Before I realized, the video was over and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <i><a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full Stack Ruby on Rails</a></i> track and never looked back.</p>
+        <p>One day during my cancer treatments, I stumbled across <a href="https://www.youtube.com/@programmingwithmosh" target="_blank"><i>Programming with Mosh</a>'s</i> channel on YouTube and watched his entire 1-hour <i><a href="https://www.youtube.com/watch?v=qz0aGYrrlhU" target="_blank">HTML Crash Course</a></i>. Before I realized, the video was over, and I was left wanting so much more. With my search for high-quality and affordable educational resources well underway, I eventually discovered The Odin Project. After reading about the successes of others that have endured the program, I built my <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">foundations</a> and embarked on my journey down TOP's <i><a href="https://www.theodinproject.com/paths/full-stack-ruby-on-rails?" target="_blank">Full-Stack Ruby on Rails</a></i> track and never looked back.</p>
       <h3>Learning Outcomes</h3>
       <p>The Odin Project provided me with a carefully curated guide to my learning and exposed me to a wide array of technologies (<i>listed in the Course Tech Stack</i>) that I have found to be invaluable for anybody wanting to start their journey as a Full-Stack Web Developer. Beyond learning the tech, TOP helped me develop my critical thinking skills by not hand-holding me as I approached each new project. TOP forced me to deepen my understanding of complex concepts and analyze the documentation of the various technologies to fill in any knowledge gaps necessary to complete the projects. TOP has given me the knowledge and confidence to build my own Full-Stack web projects from the ground up, and access to an incredibly passionate <a href="https://discord.com/invite/fbFCkYabZB">discord community</a> with which to collaborate.</p>
     </div>
@@ -98,17 +118,17 @@
         </tr>
         <tr>
           <td>Encapsulation</td>
-          <td>Encapsulation is the packing of data and functions into one component (for example, a class) and then controlling access to that component to make a "blackbox" out of the object. Because of this, a user of that class only needs to know its interface (that is, the data and functions exposed outside the class), not the hidden implementation.</td>
+          <td>Encapsulation is the packing of data and functions into one component (for example, a class) and then controlling access to that component to make a "black box" out of the object. Because of this, a user of that class only needs to know its interface (that is, the data and functions exposed outside the class), not the hidden implementation.</td>
           <td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation">MDN Article</a></td>
         </tr>
         <tr>
           <td>Memory Management</td>
-          <td>Low-level languages like C, have manual memory management primitives such as malloc() and free(). In contrast, JavaScript automatically allocates memory when objects are created and frees it when they are not used anymore (garbage collection). This automaticity is a potential source of confusion: it can give developers the false impression that they don't need to worry about memory management.</td>
+          <td>Low-level languages, like C, have manual memory management primitives such as malloc() and free(). In contrast, JavaScript automatically allocates memory when objects are created and frees it when they are not used anymore (garbage collection). This automaticity is a potential source of confusion: it can give developers the false impression that they don't need to worry about memory management.</td>
           <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management">MDN Article</a></td>
         </tr>
         <tr>
           <td>Security</td>
-          <td>The purpose of website security is to prevent the possibility of vulnerabilities from occuring in your code that can potentially be exploited by threat actors to access sensitive information. The more formal definition of website security is the act/practice of protecting websites from unauthorized access, use, modification, destruction, or disruption.</td>
+          <td>The purpose of website security is to prevent the possibility of vulnerabilities from occurring in your code that can potentially be exploited by threat actors to access sensitive information. The more formal definition of website security is the act/practice of protecting websites from unauthorized access, use, modification, destruction, or disruption.</td>
           <td><a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Website_security">MDN Article</a></td>
         </tr>
         <tr>
@@ -118,9 +138,9 @@
         </tr>
       </table>
     <h3>Learning Outcomes</h3>
-    <p>After receiving my certificate, I was overwhelmed with a surreal feeling of achievement and was joyfully relieved. More importantly, I finally took the time to reflect on my programming journey over the greater part of 11 months ever since starting with <a href="#the-odin-project">The Odin Project</a>. Going from having just one programming class in high school to now being able to develop my own projects from scratch is something I never dreamed that I would be able to accomplish. CS50x has changed my perspective when it comes to solving complex problems, and has helped me push beyond the limitations of my own previously realized abilities. I'm thrilled to have been a part of yet another outstanding program dedicated to empowering learners around the globe through affordable education.</p>
+    <p>After receiving my certificate, I was overwhelmed with a surreal feeling of achievement and was joyfully relieved. More importantly, I finally took the time to reflect on my programming journey over the greater part of 11 months, and ever since starting with <a href="#the-odin-project">The Odin Project</a>. Going from having just one programming class in high school to now being able to develop my own projects from scratch is something I never dreamed that I would be able to accomplish. CS50x has changed my perspective when it comes to solving complex problems, and has helped me push beyond the limitations of my own previously realized abilities. I'm thrilled to have been a part of yet another outstanding program dedicated to empowering learners around the globe through affordable education.</p>
     <p><img src="https://13b43dff-b87d-4489-8a6b-fb35e4b2b8c2.id.repl.co/images/CS50x-unverified.png"></p>
-  <h4>Skills Earned</h4>
+  <h3>Skills Earned</h3>
   <ul>
     <li>A broad and robust understanding of computer science and programming</li>
     <li>How to think algorithmically and solve programming problems efficiently</li>
@@ -143,7 +163,7 @@
     </div>
     <div align="left">
       <h3>Why I love freeCodeCamp</h3>
-      <p>By now, I have to admit that I have become a strong advocate for free educational resources over the past year, and freeCodeCamp is simply that. I discovered freeCodeCamp through my initial research for high-quality resources and prior to my involvement with The Odin Project. The way in which the curriculum is presented allows for very thorough hands-on practice in specific development areas. Following my journey with The Odin Project, I decided to use freeCodeCamp's <i><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a></i> and <i><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back End Development and APIs</a></i> certification courses to reinforce my knowlege of important concepts to remember as a Full-Stack Web Developer.</p>
+      <p>By now, I have to admit that I have become a strong advocate for free educational resources over the past year, and freeCodeCamp is simply that. I discovered freeCodeCamp through my initial research for high-quality resources and prior to my involvement with The Odin Project. The way in which the curriculum is presented allows for very thorough hands-on practice in specific development areas. Following my journey with The Odin Project, I decided to use freeCodeCamp's <i><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a></i> and <i><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back-End Development and APIs</a></i> certification courses to reinforce my knowledge of important concepts to remember as a Full-Stack Web Developer.</p>
     </div>
     <div align="left">
       <h3>Next Steps</h3>
@@ -155,20 +175,20 @@
 <!-- SECTION: GITHUB STATISTICS -->
 <details id="github-statistics">
   <summary><img width="20" src="https://media.giphy.com/media/n27ttWWVusVYOhb6hP/giphy.gif"> GitHub Statistics</summary><br>
-<div align="center">
-  <a href="https://github.com/brianveebee/brianveebee">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianveebee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21&langs_count=3" />
-  </a>
-  <a href="https://github.com/brianveebee/brianveebee">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianveebee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" alt="Brian's GitHub Stats" />
-  </a>
-  <a href="https://github.com/brianveebee/CS50x-projects-2022">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=CS50x-projects-2022&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
-  </a>
-  <a href="https://github.com/brianveebee/rock-paper-scissors">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
-  </a>
-</div>
+  <div align="center">
+    <a href="https://github.com/brianveebee/brianveebee">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianveebee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21&langs_count=3" />
+    </a>
+    <a href="https://github.com/brianveebee/brianveebee">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianveebee&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" alt="Brian's GitHub Stats" />
+    </a>
+    <a href="https://github.com/brianveebee/CS50x-projects-2022">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=CS50x-projects-2022&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
+    </a>
+    <a href="https://github.com/brianveebee/rock-paper-scissors">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianveebee&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
+    </a>
+  </div>
   <!--START_SECTION:waka-->
 
 
