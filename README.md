@@ -186,8 +186,8 @@
 <details id="github-statistics">
   <summary><img width="20" src="https://media.giphy.com/media/n27ttWWVusVYOhb6hP/giphy.gif"> GitHub Statistics</summary><br>
   <div align="center">
-    <a href="https://github.com/brianveebee/brianveebee">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianveebee&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21&langs_count=3" />
+    <a href="https://github.com/brianbronzini/brianbronzini">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=briabronzini&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21&langs_count=3" />
     </a>
     <a href="https://github.com/brianbronzini/brianbronzini">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianbronzini&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" alt="Brian's GitHub Stats" />
