@@ -5,14 +5,14 @@
   <br>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=1700&pause=300&color=3add85&center=false&width=440&height=30&lines=IT+Specialist;DevOps+Enthusiast;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=1700&pause=300&color=3add85&center=false&width=440&height=30&lines=IT+Engineer;IT+Security;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
 </h1>
 
 <p><i>Do yourself a favor, use a <a href="https://github.com/settings/appearance">Dark Mode</a> flavor</i></p>
 
 <!-- SECTION: ABOUT ME -->
 <h2 id="about-me">About me</h2>
-<p>I am an IT specialist and self-taught developer passionately learning automation and cybersecurity. I'm based in California (<i>US</i>), and you can find me cruising the PCH<img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!</p>
+<p>I am self-taught developer passionately learning automation and cybersecurity. I'm based in California (<i>US</i>), and you can find me cruising the PCH<img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!</p>
 
 <!-- SECTION: SOCIAL ICONS -->
 <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">
