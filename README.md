@@ -5,7 +5,7 @@
   <br>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=1700&pause=300&color=3add85&center=false&width=440&height=30&lines=IT+Enthusiast;CS+Student;Filmmaker;Cancer+Survivor" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=1700&pause=300&color=3add85&center=false&width=440&height=30&lines=Systems Administrator;IT+Security;Student+of+CS" alt="Typing SVG" /></a>
 </h1>
 
 <p><i>Do yourself a favor, use a <a href="https://github.com/settings/appearance">Dark Mode</a> flavor</i></p>
