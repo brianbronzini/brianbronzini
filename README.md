@@ -31,27 +31,22 @@
   <summary><img width="20" src="https://media.giphy.com/media/FK8sDft1KN3UOLsDFC/giphy.gif"> More About Brian</summary>
   <div>
     <h2>My Toolbox</h2>
-    <h3>Languages</h3>
+    <h3>Languages & Frameworks</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" width="30px" style="padding-right:10px;" alt="html logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" align="left" width="30px" style="padding-right:10px;" alt="css logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="left" width="30px" style="padding-right:10px;" alt="javascript logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" align="left" width="30px" style="padding-right:10px;" alt="tailwind css logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="left" width="30px" style="padding-right:10px;" alt="nodeJS logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" width="30px" style="padding-right:10px;" alt="python logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" align="left" width="30px" style="padding-right:10px;" alt="jenkins logo" />
     <br>
-    <h3>Tools</h3>
+    <h3>Programs & Operating Systems</h3>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="left" width="30px" style="padding-right:10px;" alt="vscode logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="left" width="30px" style="padding-right:10px;" alt="linux logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" width="30px" style="padding-right:10px;" alt="git logo" />
     <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" align="left" width="30px" style="padding-right:10px;" alt="bash logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" align="left" width="30px" style="padding-right:10px;" alt="docker logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" align="left" width="30px" style="padding-right:10px;" alt="nginx logo" />
     <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" align="left" width="30px" style="padding-right:10px;" alt="kubernetes logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" align="left" width="30px" style="padding-right:10px;" alt="jenkins logo" />
     <br>
-    <h2>How I Work</h2>
-    <h2></h2>
   </div>
 </details>
 
