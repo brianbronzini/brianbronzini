@@ -1,6 +1,12 @@
 name: WakaTime
 
-on: [push, pull_request]
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
 
 jobs:
   wakatime:
@@ -10,7 +16,17 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: WakaTime
-        uses: wakatime/action@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
         with:
-          api-key: ${{ secrets.WAKATIME_API_KEY }}
+          python-version: '3.x'
+
+      - name: Install WakaTime CLI
+        run: |
+          pip install wakatime
+
+      - name: Run WakaTime CLI
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+        run: |
+          wakatime --entity . --write
