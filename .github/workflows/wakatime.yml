@@ -1,0 +1,16 @@
+name: WakaTime
+
+on: [push, pull_request]
+
+jobs:
+  wakatime:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: WakaTime
+        uses: wakatime/action@v2
+        with:
+          api-key: ${{ secrets.WAKATIME_API_KEY }}
