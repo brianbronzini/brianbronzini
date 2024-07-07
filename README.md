@@ -187,13 +187,6 @@
     <a href="https://github.com/brianbronzini/brianbronzini">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianbronzini&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" alt="Brian's GitHub Stats" />
     </a>
-    <a href="https://github.com/brianbronzini/CS50x-projects-2022">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianbronzini&repo=CS50x-projects-2022&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
-    </a>
-    <a href="https://github.com/brianbronzini/rock-paper-scissors">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brianbronzini&repo=rock-paper-scissors&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" />
-    </a>
-  </div>
   <!--START_SECTION:waka-->
 
 
