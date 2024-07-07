@@ -1,4 +1,4 @@
-name: WakaTime
+name: WakaTime Stats Update
 
 on:
   push:
@@ -30,3 +30,12 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
         run: |
           wakatime --entity . --write
+
+      - name: Update GitHub Profile Readme with WakaTime Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: brianbronzini  # Replace with your GitHub username
+          template: classic
+          config_timezone: UTC
+          config_plugin_wakatime: yes
