@@ -184,9 +184,6 @@
     <a href="https://github.com/brianbronzini/brianbronzini">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianbronzini&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" alt="Brian's GitHub Stats" />
     </a>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@brianveebee/9664c49f-e862-43de-8974-2c5310a99f90.png" /></a>
   </div>
-  <!--START_SECTION:waka-->
-
-
-  <!--END_SECTION:waka-->
 </details>
