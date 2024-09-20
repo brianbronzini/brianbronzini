@@ -35,7 +35,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" align="left" width="30px" style="padding-right:10px;" alt="html logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" align="left" width="30px" style="padding-right:10px;" alt="css logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" align="left" width="30px" style="padding-right:10px;" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" align="left" width="30px" style="padding-right:10px;" alt="tailwind css logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" align="left" width="30px" style="padding-right:10px;" alt="nodeJS logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" width="30px" style="padding-right:10px;" alt="python logo" />
     <br>
