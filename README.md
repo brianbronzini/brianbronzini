@@ -4,8 +4,7 @@
   Brian Bronzini.
   <br>
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=&weight=700&vCenter=true&size=22&duration=1700&pause=300&color=3add85&center=false&width=440&height=30&lines=Systems Administrator;IT+Security;Student+of+CS" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=1700&pause=350&color=FF9900&background=FFFFFF00&vCenter=true&width=440&height=30&lines=Cybersecurity;Networking;Programming;Activism+%26+Awareness" alt="Typing SVG" /></a>
 </h1>
 
 <!-- SECTION: ABOUT ME -->
