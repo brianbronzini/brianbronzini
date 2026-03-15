@@ -9,7 +9,7 @@
 
 <!-- SECTION: ABOUT ME -->
 <h2 id="about-me">About me</h2>
-<p>I am self-taught developer passionately learning automation and cybersecurity. I'm based in California (<i>US</i>), and you can find me cruising the PCH<img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!</p>
+<p>I am learning automation and cybersecurity. I'm based in California (<i>US</i>), and you can find me cruising the PCH<img width="17" src="https://media.giphy.com/media/cOcZa1aMEpR7YAc1wC/giphy.gif"> in my spare time. Find me on <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">LinkedIn</a> if you want to connect or just chat!</p>
 
 <!-- SECTION: SOCIAL ICONS -->
 <a href="https://www.linkedin.com/in/brianbronzini/" target="_blank">
