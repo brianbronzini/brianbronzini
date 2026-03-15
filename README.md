@@ -41,7 +41,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" align="left" width="30px" style="padding-right:10px;" alt="git logo" />
     <img src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" align="left" width="30px" style="padding-right:10px;" alt="bash logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" align="left" width="30px" style="padding-right:10px;" alt="docker logo" />
-    <img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" align="left" width="30px" style="padding-right:10px;" alt="kubernetes logo" />
     <br>
   </div>
 </details>
@@ -173,13 +172,3 @@
   </div>
 </details>
 <hr>
-<!-- SECTION: GITHUB STATISTICS -->
-<details id="github-statistics">
-  <summary><img width="20" src="https://media.giphy.com/media/n27ttWWVusVYOhb6hP/giphy.gif"> GitHub Statistics</summary><br>
-  <div align="center">
-    <a href="https://github.com/brianbronzini/brianbronzini">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=brianbronzini&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=3add85&bg_color=1d1f21" alt="Brian's GitHub Stats" />
-    </a>
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@brianveebee/9664c49f-e862-43de-8974-2c5310a99f90.png" /></a>
-  </div>
-</details>
