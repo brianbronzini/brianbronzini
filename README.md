@@ -138,8 +138,7 @@
         </tr>
       </table>
     <h3>Learning Outcomes</h3>
-    <p>After receiving my certificate, I was overwhelmed with a surreal feeling of achievement and was joyfully relieved. More importantly, I finally took the time to reflect on my programming journey over the greater part of 11 months, and ever since starting with <a href="#the-odin-project">The Odin Project</a>. Going from having just one programming class in high school to now being able to develop my own projects from scratch is something I never dreamed that I would be able to accomplish. CS50x has changed my perspective when it comes to solving complex problems, and has helped me push beyond the limitations of my own previously realized abilities. I'm thrilled to have been a part of yet another outstanding program dedicated to empowering learners around the globe through affordable education.</p>
-    <p><img src="https://13b43dff-b87d-4489-8a6b-fb35e4b2b8c2.id.repl.co/images/CS50x-unverified.png"></p>
+    <p>After receiving <a href="https://courses.edx.org/certificates/a7255ad8f80d4eb0806bfed89e1464e0">my certificate</a>, I could finally take a step back to reflect on my programming journey over the greater part of 11 months. Going from having just one programming class in high school to now being able to develop my own projects from scratch is something I never dreamed that I would be able to accomplish. CS50x has changed my perspective when it comes to solving complex problems, and has instilled a sense of newfound confidence in my abilities.</p>
   <h3>Skills Earned</h3>
   <ul>
     <li>A broad and robust understanding of computer science and programming</li>
@@ -150,25 +149,5 @@
     <li>How to develop and present a <a href="https://github.com/brianveebee/rock-paper-scissors">final programming project</a> to your peers</li>
   </ul>
   </div>  
-  <div>
-    <br>
-    <hr>
-      <!-- freeCodeCamp -->
-      <p><i>(Ongoing Learning)</i></p>
-      <h2>freeCodeCamp</h2>
-      <p><b><a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a> is a community of millions of people around the world who are learning to code together. You can learn to code with free online courses, programming projects, and interview preparation for developer jobs.</b></p>
-      <a href="https://www.freecodecamp.org/">
-        <img width="400" src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" alt="freeCodeCamp logo">
-      </a>
-    </div>
-    <div align="left">
-      <h3>Why I love freeCodeCamp</h3>
-      <p>By now, I have to admit that I have become a strong advocate for free educational resources over the past year, and freeCodeCamp is simply that. I discovered freeCodeCamp through my initial research for high-quality resources and prior to my involvement with The Odin Project. The way in which the curriculum is presented allows for very thorough hands-on practice in specific development areas. Following my journey with The Odin Project, I decided to use freeCodeCamp's <i><a href="https://www.freecodecamp.org/learn/2022/responsive-web-design/">Responsive Web Design</a></i> and <i><a href="https://www.freecodecamp.org/learn/back-end-development-and-apis/">Back-End Development and APIs</a></i> certification courses to reinforce my knowledge of important concepts to remember as a Full-Stack Web Developer.</p>
-    </div>
-    <div align="left">
-      <h3>Next Steps</h3>
-      <p>As I continue my learning, I intend to better familiarize myself with python by building projects with a greater focus in security development. I am eager to dive into freeCodeCamp's <i><a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">Scientific Computing with Python</a></i> and <i><a href="https://www.freecodecamp.org/learn/information-security/">Information Security</a></i> courses to learn the basics of building a TCP client and penetration testing.</p>
-    </div>
-  </div>
 </details>
 <hr>
